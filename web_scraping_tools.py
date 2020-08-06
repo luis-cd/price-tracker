@@ -3,6 +3,7 @@
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from selenium.webdriver.common.keys import Keys
 
 # from selenium.webdriver.chrome.options import Options #solo de usar chrome
 # chrome_options = Options()
@@ -67,3 +68,8 @@ def click_checkbox(page, identificacion):
     button.click()
 
 
+def enter_text(page, identificacion, text):
+    text_box=page.find_element_by_id(identificacion)
+    text_box.send_keys(text)
+    text_box.send_keys(Keys.ENTER)
+    print('i')
