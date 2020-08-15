@@ -70,6 +70,5 @@ def click_checkbox(page, identificacion):
 
 def enter_text(page, identificacion, text):
     text_box=page.find_element_by_id(identificacion)
-    text_box.send_keys(text)
-    text_box.send_keys(Keys.ENTER)
-    print('i')
+    page.send_keys(text)
+    page.send_keys(Keys.ENTER)
