@@ -6,7 +6,7 @@ class Settings:
     '''This are the settings for the price tracker.'''
     def __init__(self):
         self.DIRECTORY = 'reports'
-        self.SEARCH_TERM = 'camiseta Red Hot Chili Peppers'
+        self.SEARCH_TERM = 'ps4'
         self.FILTERS = {'min': MIN_PRICE,
         'max': MAX_PRICE}
         self.MIN_PRICE = '5'

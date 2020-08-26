@@ -1,7 +1,7 @@
 #!/usr/bin/env
 #-*- coding: utf-8 -*-
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
-import web_scraping_tools as wst
+from easelenium.firefox_selenium import Firefox
 
 class AmazonAPI:
     def __init__(self,search_term,filters,base_url,currency):
