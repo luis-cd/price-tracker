@@ -8,4 +8,7 @@ from report import GenerateReport
 
 
 if __name__ == '__main__':
-    print('Hey!')
+    
+    settings=Settings()
+    amazon=AmazonAPI(settings)
+    amazon.run()
