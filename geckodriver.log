@@ -1,148 +1,367 @@
-1598455622648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelBKAFz"
-1598455628543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDFzCuw"
+1600164813648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6kCUPE"
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598455636434	Marionette	INFO	Listening on port 38789
-1598455636489	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
-JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
-1598455643813	Marionette	INFO	Stopped listening on port 38789
-1598455705370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0pBWiz"
+1600164826202	Marionette	INFO	Listening on port 38605
+1600164826280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600164851093	Marionette	INFO	Stopped listening on port 38605
+1600164858027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSOUqjY"
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598455709534	Marionette	INFO	Listening on port 39962
-1598455709580	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: SearchService: "_init: abandoning init due to shutting down"
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-JavaScript error: , line 0: uncaught exception: 2147500036
-1598455713917	Marionette	INFO	Stopped listening on port 39962
-1598464895550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW77MrV"
+1600164863152	Marionette	INFO	Listening on port 38901
+1600164863250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600164894811	Marionette	INFO	Stopped listening on port 38901
+1600164904166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHhO300"
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598464906498	Marionette	INFO	Listening on port 42555
-1598464906605	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1600164910620	Marionette	INFO	Listening on port 44108
+1600164910690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600164926705	Marionette	INFO	Stopped listening on port 44108
+1600165108842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileERX44K"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600165112969	Marionette	INFO	Listening on port 42992
+1600165113070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600166055279	Marionette	INFO	Stopped listening on port 42992
+1600166062724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePVwIyz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600166070853	Marionette	INFO	Listening on port 36740
+1600166071153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 6553, MediaDecoderStateMachine #1] WARNING: Decoder=7f67884e4000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 6553, MediaDecoderStateMachine #1] WARNING: Decoder=7f67884e4000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1600166153715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen3eDfb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600166158335	Marionette	INFO	Listening on port 43259
+1600166158428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600166274821	Marionette	INFO	Stopped listening on port 43259
+1600166495811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZdwLF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600166500676	Marionette	INFO	Listening on port 35160
+1600166500726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600166603763	Marionette	INFO	Stopped listening on port 35160
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600167500925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepuHENb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600167509211	Marionette	INFO	Listening on port 42226
+1600167509339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 13043, MediaDecoderStateMachine #1] WARNING: Decoder=7fe594f24400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 13043, MediaDecoderStateMachine #1] WARNING: Decoder=7fe594f24400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600167705689	Marionette	INFO	Stopped listening on port 42226
+1600168185611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefEcK1l"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600168189740	Marionette	INFO	Listening on port 45358
+1600168189825	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16298, MediaDecoderStateMachine #1] WARNING: Decoder=7f25bda7dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 16298, MediaDecoderStateMachine #1] WARNING: Decoder=7f25bda7dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 16298, MediaDecoderStateMachine #1] WARNING: Decoder=7f25bcf8b000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 16298, MediaDecoderStateMachine #1] WARNING: Decoder=7f25bcf8b000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600168327550	Marionette	INFO	Stopped listening on port 45358
+1600169245509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVYfyz6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600169251591	Marionette	INFO	Listening on port 39154
+1600169251674	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20143, MediaDecoderStateMachine #1] WARNING: Decoder=7f8f43342000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 20143, MediaDecoderStateMachine #1] WARNING: Decoder=7f8f43342000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600169429884	Marionette	INFO	Stopped listening on port 39154
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600170347929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeTJDtM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600170351716	Marionette	INFO	Listening on port 35595
+1600170351757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 23798, MediaDecoderStateMachine #1] WARNING: Decoder=7fe3d13e9400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 23798, MediaDecoderStateMachine #1] WARNING: Decoder=7fe3d13e9400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-q1Wuz5/firefox-80.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600170488018	Marionette	INFO	Stopped listening on port 35595
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600170906804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9JqYx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600170911006	Marionette	INFO	Listening on port 38693
+1600170911033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1600171051970	Marionette	INFO	Stopped listening on port 38693
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601812893295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile80Qniu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601812911295	Marionette	INFO	Listening on port 37992
+1601812911740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1601813017294	Marionette	INFO	Stopped listening on port 37992
+1601813178595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHGvqPl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601813195574	Marionette	INFO	Listening on port 35566
+1601813195644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2adea50000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2adea50000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2af88a5400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2af88a5400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2afc17dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 17365, MediaDecoderStateMachine #1] WARNING: Decoder=7f2afc17dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601813299179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8FRUtf"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601813309179	Marionette	INFO	Listening on port 32779
+1601813309256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Child 18144, MediaDecoderStateMachine #1] WARNING: Decoder=7f769c336800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 18144, MediaDecoderStateMachine #1] WARNING: Decoder=7f769c336800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1601813449780	Marionette	INFO	Stopped listening on port 32779
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1601813526722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGpqfTe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601813531680	Marionette	INFO	Listening on port 44219
+1601813531771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1601813628137	Marionette	INFO	Stopped listening on port 44219
+1601813799221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZUhBfj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601813810790	Marionette	INFO	Listening on port 32842
+1601813810868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1248:3
+
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
-1598464958130	Marionette	INFO	Stopped listening on port 42555
-1598464982830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSQvZjH"
+1601813861930	Marionette	INFO	Stopped listening on port 32842
+1601813890857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXWDcOn"
 console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598464987064	Marionette	INFO	Listening on port 44569
-1598464987139	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
-JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
-1598465022191	Marionette	INFO	Stopped listening on port 44569
-1598465031585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileogoaJZ"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598465035920	Marionette	INFO	Listening on port 41888
-1598465035999	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598465068131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQYyjyB"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598465074211	Marionette	INFO	Listening on port 34285
-1598465074257	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
-1598465078025	Marionette	INFO	Stopped listening on port 41888
-JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
-1598465127756	Marionette	INFO	Stopped listening on port 34285
-1598465135118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0Q21KO"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598465138847	Marionette	INFO	Listening on port 36470
-1598465138931	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598465165166	Marionette	INFO	Stopped listening on port 36470
-1598873483411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXRvfjb"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598873491598	Marionette	INFO	Listening on port 45959
-1598873491874	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.de"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.de"
-1598873585425	Marionette	INFO	Stopped listening on port 45959
-1598873591541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiId57C"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598873596395	Marionette	INFO	Listening on port 44198
-1598873597466	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598873619384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLsV2oX"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598873624106	Marionette	INFO	Listening on port 37014
-1598873624912	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598873644783	Marionette	INFO	Stopped listening on port 37014
-1598873661723	Marionette	INFO	Stopped listening on port 44198
-1598874847099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemgDgsp"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598874851440	Marionette	INFO	Listening on port 38302
-1598874852312	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598874884093	Marionette	INFO	Stopped listening on port 38302
-1598874906518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8SEI4Y"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598874911120	Marionette	INFO	Listening on port 37319
-1598874911928	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598874936761	Marionette	INFO	Stopped listening on port 37319
-1598874944718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileskQLZZ"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598874948701	Marionette	INFO	Listening on port 43496
-JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
-1598874949528	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598875062752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev9BUBY"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875066826	Marionette	INFO	Listening on port 42895
-1598875067668	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598875080695	Marionette	INFO	Stopped listening on port 42895
-1598875126639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwzUz7"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875131572	Marionette	INFO	Listening on port 35992
-1598875132268	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598875134901	Marionette	INFO	Stopped listening on port 43496
-1598875152574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7aN9Gz"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875155545	Marionette	INFO	Stopped listening on port 35992
-1598875157051	Marionette	INFO	Listening on port 46849
-JavaScript error: resource:///modules/UrlbarInput.jsm, line 2259: TypeError: event.target.closest is not a function
-JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
-1598875158113	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598875175014	Marionette	INFO	Stopped listening on port 46849
-1598875558799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2YNWDO"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875562354	Marionette	INFO	Listening on port 41128
-1598875563232	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
-console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
-1598875570389	Marionette	INFO	Stopped listening on port 41128
-1598875578866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUtriNt"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875582557	Marionette	INFO	Listening on port 35519
-1598875583576	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598875632051	Marionette	INFO	Stopped listening on port 35519
-1598875657371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoQOtEy"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598875661000	Marionette	INFO	Listening on port 36407
-1598875661893	Marionette	WARN	TLS certificate errors will be ignored for this session
-1598876252314	Marionette	INFO	Stopped listening on port 36407
-1598910657257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--private" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjd82i"
-console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-1598910665587	Marionette	INFO	Listening on port 43200
-1598910666212	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: about:srcdoc, line 9: TypeError: parent is null
-JavaScript error: about:srcdoc, line 9: TypeError: parent is null
-1598910711748	Marionette	INFO	Stopped listening on port 43200
+1601813895510	Marionette	INFO	Listening on port 34920
+1601813895588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.amazon.com//dp/B07BV3W5XJ?language=en_US, line 24049: SyntaxError: unexpected token: identifier
+[Child 22974, MediaDecoderStateMachine #1] WARNING: Decoder=7f4a0d01dc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 22974, MediaDecoderStateMachine #1] WARNING: Decoder=7f4a0d01dc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-HKJ4yr/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1601814021240	Marionette	INFO	Stopped listening on port 34920
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

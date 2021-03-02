@@ -5,12 +5,13 @@
 class Settings:
 
     def __init__(self):
-        '''This are the settings for the price tracker.'''
+        '''This are the settings for the scraper.'''
         self.DIRECTORY = 'reports'
-        self.SEARCH_TERM = 'ps4'
-        self.MIN_PRICE = '275'
-        self.MAX_PRICE = '600'
-        self.FILTERS = {'min' : self.MIN_PRICE,
-            'max' : self.MAX_PRICE}
-        self.BASE_URL = 'https://www.amazon.es/'
-        self.CURRENCY = '€'
+        self.BASE_URL = 'https://www.amazon.com/'
+        self.SEARCH_TERM = 'monitor 27"'
+        self.MIN_PRICE = 20
+        self.MAX_PRICE = 200
+        self.CURRENCY = '$'
+
+
+
